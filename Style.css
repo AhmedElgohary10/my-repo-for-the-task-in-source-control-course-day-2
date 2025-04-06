@@ -39,3 +39,10 @@ body {
     line-height: 1.6;
     padding: 20px;
 }
+
+
+
+/*make conflict with slider branch on purpose to solve on the pull rquset remotely (on github)*/
+body{
+    background-color: black;    
+}
