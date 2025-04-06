@@ -42,7 +42,23 @@ body {
 
 
 
+/*========== Slider Styling ==========*/
+#slider button{
+    width: 100px;
+    height: 40px;
+}
+
+    #slider button#next  {
+        color: blue;
+    }
+
+    #slider button#prev {
+        color: red;
+    }
+
+
 /*make conflict with slider branch on purpose to solve on the pull rquset remotely (on github)*/
 body{
     background-color: black;    
 }
+/*conflict resolved online while reviewing the pull request on github*/
